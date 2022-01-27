@@ -290,24 +290,9 @@ h6 {
   color: #fff;
 }
 
-.third__one {
+.third .ratio {
   flex: 0 1 255px;
-  height: 199px;
-  background: #0d89b0;
-}
-.third__two {
-  flex: 0 1 255px;
-  height: 199px;
-  background: #0d89b0;
-}
-.third__three {
-  flex: 0 1 255px;
-  height: 199px;
-  background: #0d89b0;
-}
-.third__four {
-  flex: 0 1 255px;
-  height: 199px;
+  padding-bottom: 17.92%;
   background: #0d89b0;
 }
 
